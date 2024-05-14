@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   <string-array name="imperial">
+    <item>Pulgadas</item>
+    <item>Pies</item>
+    <item>Millas</item>
+</string-array>
+</resources>
